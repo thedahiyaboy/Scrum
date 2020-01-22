@@ -25,7 +25,7 @@ The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Ma
 
 Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental deliveries of “Done” product ensure a potentially useful version of working product is always available.
 
-### The Product Owner
+### Product Owner
 
 The Product Owner is responsible for maximizing the value of the product resulting from work of the Development Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
 The Product Owner is the sole person responsible for managing the Product Backlog. Product Backlog management includes:
@@ -42,9 +42,30 @@ the Scrum Team will work on next; and,
 - Ensuring the Development Team understands items in the Product Backlog to the level
 needed.
 
-### The Development Team
+### Development Team
 
 The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint. A “Done” increment is required at the Sprint Review. Only members of the Development Team create the Increment.
+
+
+Development Teams have the following characteristics:
+
+- They are self-organizing. No one (not even the Scrum Master) tells the Development Team how to turn Product Backlog into Increments of potentially releasable functionality;
+
+- Development Teams are cross-functional, with all the skills as a team necessary to create a product Increment;
+
+- Scrum recognizes no titles for Development Team members, regardless of the work being performed by the person;
+
+- Scrum recognizes no sub-teams in the Development Team, regardless of domains that need to be addressed like testing, architecture, operations, or business analysis; and,
+
+- Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole.
+
+
+
+### Scrum Master
+
+The Scrum Master is responsible for promoting and supporting Scrum. Scrum Masters do this by helping everyone understand Scrum theory, practices, rules, and values.
+
+The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
 
 
 
