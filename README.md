@@ -140,7 +140,34 @@ The Product Owner can help to clarify the selected Product Backlog items and mak
 
 By the end of the Sprint Planning, the Development Team should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment.
 
+###  Sprint Goal
+
+The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog. It provides guidance to the Development Team on why it is building the Increment. It is created during the Sprint Planning meeting. The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint. The selected Product Backlog items deliver one coherent function, which can be the Sprint Goal. The Sprint Goal can be any other coherence that causes the Development Team to work together rather than on separate initiatives.
+
+As the Development Team works, it keeps the Sprint Goal in mind. In order to satisfy the Sprint Goal, it implements functionality and technology. If the work turns out to be different than the Development Team expected, they collaborate with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.
+
+### Daily Scrum
 
 
+The Daily Scrum is a 15-minute time-boxed event for the Development Team. The Daily Scrum is held every day of the Sprint. At it, the Development Team plans work for the next 24 hours. This optimizes team collaboration and performance by inspecting the work since the last Daily Scrum and forecasting upcoming Sprint work.
+
+The Development Team uses the Daily Scrum to inspect progress toward the Sprint Goal and to inspect how progress is trending toward completing the work in the Sprint Backlog. The Daily Scrum optimizes the probability that the Development Team will meet the Sprint Goal. Every day, the Development Team should understand how it intends to work together as a self- organizing team to accomplish the Sprint Goal and create the anticipated Increment by the end of the Sprint.
+
+### Sprint Review
+
+A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value.
+
+The Sprint Review includes the following elements:
+- Attendees include the Scrum Team and key stakeholders invited by the Product Owner;
+- The Product Owner explains what Product Backlog items have been “Done” and what has not been “Done”;
+- The Development Team discusses what went well during the Sprint, what problems it ran into, and how those problems were solved;
+- The Development Team demonstrates the work that it has “Done” and answers questions about the Increment;
+- The Product Owner discusses the Product Backlog as it stands. He or she projects likely target and delivery dates based on progress to date (if needed);
+- The entire group collaborates on what to do next, so that the Sprint Review provides valuable input to subsequent Sprint Planning;
+- Review of how the marketplace or potential use of the product might have changed what is the most valuable thing to do next; and,
+- Review of the timeline, budget, potential capabilities, and marketplace for the next anticipated releases of functionality or capability of the product.
+
+The result of the Sprint Review is a revised Product Backlog that defines the probable Product Backlog items for the next Sprint. The Product Backlog may also be adjusted overall to meet new opportunities.
 
 
+### Sprint Retrospective
