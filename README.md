@@ -1,4 +1,7 @@
-# Scrum and Agile 
+
+# Scrum
+
+![alt text](https://github.com/thedahiyaboy/Scrum/blob/master/scrum.png)
 
 ## Introduction
 
